@@ -6,6 +6,8 @@
 ✍️ &nbsp;In my free time, I like to solve competitive programming problems.\
 ✉️ &nbsp;You can shoot me an email at rajansharma842214@gmail.com! I'll try to respond as soon as I can.
 
+<img height="160em" align="right" src="https://github.com/Rajan-226/Rajan-226/blob/main/Programmer.png">
+
 ### 🛠 &nbsp;Tech Stack
 
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=#A8B9CC)
