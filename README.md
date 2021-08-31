@@ -1,4 +1,4 @@
-## 👋 &nbsp;Hey there! I'm Rajan Sharma
+## 👋 &nbsp;Hey there! I'm Rajan
 ### 👨🏻‍💻 &nbsp;About Me
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently pursuing BE in Computer Science at Chitkara University, Punjab.\
