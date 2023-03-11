@@ -37,6 +37,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
-<a href="https://www.linkedin.com/in/rajan226/"><img src="https://img.shields.io/badge/-Rajan%20Sharma-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:rajansharma842214@gmail.com"><img src="https://img.shields.io/badge/-rajansharma842214@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rajan226/"><img src="https://img.shields.io/badge/-Rajan%20Sharma-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a><br>
+<a href="mailto:rajansharma842214@gmail.com"><img src="https://img.shields.io/badge/-rajansharma842214@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a><br>
+<img src="https://komarev.com/ghpvc/?username=Rajan-226&label=Profile%20views&color=0e75b6&style=flat" alt="Rajan-226" /> 
 </p>
