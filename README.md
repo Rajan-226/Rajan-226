@@ -2,7 +2,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I've completed my Bachelors in Computer Science from Chitkara University, Punjab.\
-🌱 &nbsp;I'm on track for learning more about Web Development.\
+🌱 &nbsp;I'm on track for learning more about Software Development.\
 ✍️ &nbsp;In my free time, I like to solve competitive programming problems.\
 ✉️ &nbsp;You can shoot me an email at rajansharma842214@gmail.com! I'll try to respond as soon as I can.
 
