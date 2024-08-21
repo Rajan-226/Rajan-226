@@ -23,6 +23,9 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=light-blue)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)\
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=1572B6)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes&logoColor=1572B6)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=aws&logoColor=1572B6)\
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
